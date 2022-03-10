@@ -1,3 +1,4 @@
 this is another test file
 adding another line
 added again
+testing if editor is now vim
