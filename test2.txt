@@ -2,3 +2,5 @@ this is another test file
 adding another line
 added again
 testing if editor is now vim
+Recently added this local git repo to my github account. 
+Testing it to see if it has worked
