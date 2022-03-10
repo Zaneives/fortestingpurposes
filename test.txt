@@ -1,3 +1,5 @@
 This is a test file
 
 this is added in the master branch
+
+Editing on Geany to test git adds/commits, etc
